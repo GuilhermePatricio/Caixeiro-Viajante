@@ -2,7 +2,6 @@
 """
 Created on Mon Nov  4 22:36:10 2019
 
-@author: 10226802698
 """
 import random
 import time
