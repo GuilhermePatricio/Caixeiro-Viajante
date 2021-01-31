@@ -2,7 +2,6 @@
 """
 Created on Tue Nov 19 14:57:07 2019
 
-@author: 10226802698
 """
 
 import CaixeiroViajante
